@@ -1,0 +1,5 @@
+require "carray"
+require "rmagick"
+require "carray/carray_rmagick"
+require "carray/io/rmagick"
+require "carray/object/ca_obj_magick_image"
